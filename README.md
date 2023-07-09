@@ -6,3 +6,4 @@
 3. place the .bat script in there
 4. double click to run the batch script
 5. nice
+6. this uses 7zip btw in the standard install location
